@@ -1,0 +1,6 @@
+# race_road_lightgravel_ultraminimal.brf
+assign validForBikes = true
+
+begin context=way
+assign costfactor = 1
+end
